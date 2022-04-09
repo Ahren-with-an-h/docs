@@ -346,6 +346,10 @@ Make sure each switch pin has enough solder to form a nice solid joint.
 
 If building with hotswap sockets and a switch plate, after soldering, insert switches into the switch plate before installing on the PCB. It helps to seat switches in the corner positions on the plate, then insert into the sockets, then insert the remaining switches into the plate and sockets.
 
+![](build_guide_img/image091.png)
+
+![](build_guide_img/image092.png)
+
 ## 18a. Prepare and attach magnets to acrylic
 
 The SNAP uses magnets affixed to the acrylic support layers in order to hold the two sides together when the pogo pins are used. The magnets are held in place with the thin, clear magnet stickers, but can also be fastened with glue (CA, epoxy, or hot glue) for a more secure and permanent solution. If using glue to secure the magnets, double (actually, triple!) check that the magnets for the left and right side are in the correct orientation and attract each other!

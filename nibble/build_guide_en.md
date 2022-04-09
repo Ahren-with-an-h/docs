@@ -283,7 +283,11 @@ If you are using 5-pin PCB mount switches, they may take some force to insert. T
 
 ## 16. Solder switches or hot-swap sockets
 
-⚠️ **Stop!** If you are building with a switch plate, make sure that you have installed and tightened the mounting hardware ( **Step 2.12** ) and installed the stabilizers ( **Step 2.13** ) before continuing! Once the switches are installed on the plate, access to the items below is difficult.
+⚠️ **Stop!** If you are building with a switch plate, make sure that you have installed and tightened the mounting hardware ( **Step 2.12** ) and installed the stabilizers ( **Step 2.13** ) before continuing! Once the switches are installed on the plate, access to the items below is difficult. See below!
+
+![](build_guide_img/image055.png)
+
+![](build_guide_img/image056.png)
 
 Make sure each switch pin has enough solder to form a nice solid joint.
 
