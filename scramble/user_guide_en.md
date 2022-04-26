@@ -45,7 +45,6 @@ With your SCRAMBLE plugged into your computer, open VIA. The SCRAMBLE will be re
 ## Default output of each switch when pressed
 
 Gateron White: Linear, 35g force  
-Gateron White: Linear, 35g force  
 Gateron Red: Linear, 45g force  
 Gateron Black: Linear, 60g force  
 Gateron Brown: Tactile, 55g force  
